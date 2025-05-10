@@ -67,7 +67,7 @@ python app.py
 Navigate to `http://127.0.0.1:5000` in your browser.
 
 Screenshots
-![Dashboard-ss](<Screenshot 2025-05-10 183549.png>)
+![Dashboard-ss](https://github.com/user-attachments/assets/b24b13e7-301d-41a5-b147-4935eb91b4de)
 
 Author
 
