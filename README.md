@@ -6,7 +6,7 @@ Features
 
 -Units Sold by Region: Bar chart of total units sold across different regions.
 -Monthly Revenue Overview: Line chart showing revenue trends over months.
--Top Spending Customers: Visual of the highest-paying customers.
+-Top Spending Customers: Visual of highest-paying customers.
 -Revenue by Product: Bar chart of revenue distribution across products.
 
 Tech Stack
@@ -67,7 +67,7 @@ python app.py
 Navigate to `http://127.0.0.1:5000` in your browser.
 
 Screenshots
-![Dashboard-ss](https://github.com/user-attachments/assets/b24b13e7-301d-41a5-b147-4935eb91b4de)
+![Dashboard-ss](<Screenshot 2025-05-10 183549.png>)
 
 Author
 
