@@ -40,7 +40,7 @@ Setup Instructions
 1. Clone the Repository
 
 bash
-git clone https://github.com/your-username/sales-data-dashboard.git
+git clone https://github.com/ishan183/sales-data-dashboard.git
 cd sales-data-dashboard
 
 2. Set Up Virtual Environment
